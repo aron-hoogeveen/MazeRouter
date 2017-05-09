@@ -7,7 +7,7 @@ struct cell maze[MAX_SIZE][MAX_SIZE];
 
 Coordinate *init_Coordinate (void)
 {
-    Coordinate *ptr_crd = malloc(sizeof(*ptr_crd));
+    Coordinate *ptr_crd = malloc(sizeof(Coordinate));
 
     if(ptr_crd == NULL)
     {

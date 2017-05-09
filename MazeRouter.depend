@@ -71,3 +71,19 @@
 
 1491392271 source:e:\gebruikers\aron\google\goole drive\epo-2_ smart robot challenge\mazerouter\road.c
 
+1493652232 source:e:\google drive\epo-2_ smart robot challenge\mazerouter\mazerouter\hardcodemaze.c
+	"HardcodeMaze.h"
+	<stdio.h>
+
+1491399122 e:\google drive\epo-2_ smart robot challenge\mazerouter\mazerouter\hardcodemaze.h
+	<string.h>
+	"Lee.h"
+
+1493909646 e:\google drive\epo-2_ smart robot challenge\mazerouter\mazerouter\lee.h
+
+1493912635 source:e:\google drive\epo-2_ smart robot challenge\mazerouter\mazerouter\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Lee.h"
+	"HardcodeMaze.h"
+

@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1493652232 source:c:\users\aron\documents\tu\courses\digitale systemen a\projects\mazerouter\hardcodemaze.c
+	"HardcodeMaze.h"
+	<stdio.h>
+
+1491563641 source:c:\users\aron\documents\tu\courses\digitale systemen a\projects\mazerouter\lee.c
+	"Lee.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1491563489 c:\users\aron\documents\tu\courses\digitale systemen a\projects\mazerouter\lee.h
+
+1491563717 source:c:\users\aron\documents\tu\courses\digitale systemen a\projects\mazerouter\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Lee.h"
+	"HardcodeMaze.h"
+
+1491399122 c:\users\aron\documents\tu\courses\digitale systemen a\projects\mazerouter\hardcodemaze.h
+	<string.h>
+	"Lee.h"
+
+1491392271 source:c:\users\aron\documents\tu\courses\digitale systemen a\projects\mazerouter\road.c
+
+1493652232 source:c:\users\aron\documents\google drive\epo-2_ smart robot challenge\mazerouter\hardcodemaze.c
+	"HardcodeMaze.h"
+	<stdio.h>
+
+1491399122 c:\users\aron\documents\google drive\epo-2_ smart robot challenge\mazerouter\hardcodemaze.h
+	<string.h>
+	"Lee.h"
+
+1493909646 c:\users\aron\documents\google drive\epo-2_ smart robot challenge\mazerouter\lee.h
+
+1493909538 source:c:\users\aron\documents\google drive\epo-2_ smart robot challenge\mazerouter\lee.c
+	"Lee.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1491392271 source:c:\users\aron\documents\google drive\epo-2_ smart robot challenge\mazerouter\road.c
+
+1493912635 source:c:\users\aron\documents\google drive\epo-2_ smart robot challenge\mazerouter\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Lee.h"
+	"HardcodeMaze.h"
+
+1493652232 source:e:\gebruikers\aron\google\goole drive\epo-2_ smart robot challenge\mazerouter\hardcodemaze.c
+	"HardcodeMaze.h"
+	<stdio.h>
+
+1491399122 e:\gebruikers\aron\google\goole drive\epo-2_ smart robot challenge\mazerouter\hardcodemaze.h
+	<string.h>
+	"Lee.h"
+
+1493909646 e:\gebruikers\aron\google\goole drive\epo-2_ smart robot challenge\mazerouter\lee.h
+
+1493909538 source:e:\gebruikers\aron\google\goole drive\epo-2_ smart robot challenge\mazerouter\lee.c
+	"Lee.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1493912635 source:e:\gebruikers\aron\google\goole drive\epo-2_ smart robot challenge\mazerouter\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Lee.h"
+	"HardcodeMaze.h"
+
+1491392271 source:e:\gebruikers\aron\google\goole drive\epo-2_ smart robot challenge\mazerouter\road.c
+

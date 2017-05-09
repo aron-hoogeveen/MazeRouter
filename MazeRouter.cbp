@@ -39,10 +39,6 @@
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="Lee.h" />
-		<Unit filename="Road.c">
-			<Option compilerVar="CC" />
-		</Unit>
-		<Unit filename="Road.h" />
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>

@@ -1,10 +1,11 @@
 /* An Example Input
- *   2 e2030 e2324
- *   10 12
+ *   2 e2030 e0203
+ *   12 7 9 4
  *
  * An Example Output
- *   10 c10 c20 c21 c31 c30 12
- *   10 c10 c11 c21 c31 c30 12
+ *   12 c30 c31 c21 c11 c01 9
+ *   9  c01 c11 c12 c13 c03 7
+ *   7  c03 c13 c23 c33 c34 4
  */
 
 
